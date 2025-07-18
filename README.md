@@ -1,4 +1,4 @@
-# GamaDogs
+# GAMA DOGS
 
 
 - npm install
