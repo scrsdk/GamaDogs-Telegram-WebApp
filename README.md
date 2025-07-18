@@ -4,4 +4,4 @@
 - npm install
 - npm build
 
-PHP + JS + FIREBASE 
+PHP + JS + FIREBASE + TELEGRAM BOT API
